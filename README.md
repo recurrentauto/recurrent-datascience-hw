@@ -8,7 +8,6 @@ providing sufficient data to actually train such a model but would like to
 see how you approach the problem, what tools you decide to use, etc. 
 
 We’ll use this notebook as a launching point for discussion in our next interview. 
-Please spend less than two hours actively working on this assignment.
 
 ### The assignment
 In a Jupyter notebook:
@@ -56,7 +55,9 @@ thinking and provide feedback.
   you import.
 - There is no deadline for this, just send it to us when you are ready.
 - Submit your Jupyter notebook by emailing it to us (you can email the `.ipynb` file itself,
-  or a link to the file hosted on a cloud service)
+  or a link to the file hosted on a cloud service). Please don't include your name or other
+  identifying info in your notebook - we will pass your notebook to team members to review
+  blind (without knowing applicant identities).
 
 ### The sample data
 We've provided four files with small sets of sample data to use in this assignment. 
@@ -92,7 +93,7 @@ This file provides the vehicle manufacture date for each car.
 - `vehicle_id`: A unique identifier tied to the vehicle, expressed as a
   string.
 - `manufacture_date`: The date of manufacture for the vehicle, expressed as a string 
-  of the format `yyyy-mm-d`.
+  of the format `yyyy-mm-dd`.
 
 ### `vehicle_models.csv`
 This file contains information about the vehicles like make, model, model year,
@@ -118,7 +119,7 @@ battery capacity, etc.
 ### `weather_history.csv`
 - `zipcode`: The zipcode where the vehicle was at the time of the observation,
    expressed as a string.
-- `climate_descriptor_1`: a placeholder for some quantitative measure of the historical 
-  temperature variation in this location, expressed as an integer.
+- `climate_descriptor_1`: a placeholder for a quantitative measure of the historical 
+  exposure to high temperatures in this location, expressed as an integer.
 - `climate_descriptor_2`: another placeholder for a quantitative measure of the historical 
-  temperature variation in this location, expressed as an integer.
+  exposure to very low temperatures in this location, expressed as an integer.
