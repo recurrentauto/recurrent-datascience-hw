@@ -1,0 +1,8 @@
+vehicle_model_id,make,model,trim,model_year,type,epa_rated_miles,battery_kwh
+0,Volkswagen,e-Golf,SE,2016,BEV,83.0,24.2
+1,Ford,Mustang Mach-E,Premium AWD First Edition,2021,BEV,270.0,98.5
+2,Nissan,Leaf,SV,2019,BEV,150.0,40.0
+3,Tesla,Model 3,Long Range Performance AWD (20 in),2020,BEV,299.0,75.0
+4,Chevrolet,Volt,Premier,2018,PHEV,53.0,18.4
+5,Tesla,Model S,60,2013,BEV,208.0,60.0
+6,Chevrolet,Bolt EV,Premier,2018,BEV,238.0,60.0
