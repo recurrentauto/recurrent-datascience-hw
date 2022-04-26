@@ -1,4 +1,4 @@
-# Recurrent Data Scientist Take-Home Assignment
+# Recurrent Data Scientist Take-Home Exercise
 
 At Recurrent, we work with data we collect from or about electric vehicles
 (EVs). Using Python in a Jupyter notebook, we’d like you to begin setting 
@@ -37,7 +37,8 @@ share with the rest of the data science team (asynchronously) so they could foll
 thinking and provide feedback.
 
 ### What we expect
-- We **don't** expect you to spend more than about 2 hours working on this. Please don't spend any longer
+- We **don't** expect you to spend more than about 2 hours working on this. Your time is valuable, 
+  please don't spend any longer
   on it, even if you didn't finish it! One of our goals with this assignment is to set the 
   foundation for a productive conversation in the next interview - we can talk through how you
   would approach the unfinished pieces at that time.
@@ -48,7 +49,7 @@ thinking and provide feedback.
   with this assignment is the first steps you might take to explore the data and prototype 
   some code, before getting a rough model up and running.  With that in mind, please leave 
   in cells that show your exploration or thought processes so that we can follow your work. 
-- At the end of the notebook, include some markdown with a discussion of what you would do 
+- At the end of the notebook, include a markdown cell with a discussion of what you would do 
   differently or improve if you had more time/more data/additional data sources/etc.
 - Please try to make it easy for us to run the cells in your notebook (those that aren't 
   pseudocode) by using relatively up-to-date versions of Python and the packages
